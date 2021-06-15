@@ -1,1 +1,3 @@
-# dpckan-tests
+# Testes para pacote dpckan 
+
+- Testa publicação/atualização de pacotes do arquivo datapackage.json em branco
