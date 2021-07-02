@@ -47,7 +47,7 @@
     "letters",
     "english grammar"
   ],
-  "name": "letters-vowel-teste",
+  "name": "volwel-letters-dataset-test",
   "title": "A vowel letters dataset for tests",
   "description": "This is a dataset that say if a given letter is a vowel",
   "homepage": "https://github.com/fjuniorr",
