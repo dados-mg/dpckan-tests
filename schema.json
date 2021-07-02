@@ -22,7 +22,7 @@
             "type": "boolean",
             "format": "default",
             "title": "Grammer of letter",
-            "description": "Is the letter a vowel?"
+            "description": "Este é um teste"
           }
         ]
 }
